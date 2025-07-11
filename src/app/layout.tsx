@@ -1,3 +1,5 @@
+import "../styles/globals.css";
+
 export const metadata = {
   title: "Closer DM",
   description: "Close more deals in your DMs — instantly.",
